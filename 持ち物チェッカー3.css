@@ -1,0 +1,19 @@
+body{
+    background-color: cornflowerblue;
+}
+header{
+    height: auto;
+    border-bottom: 1px solid ;
+}
+
+main{
+    height: 700px;
+
+}
+
+main h2{
+    position: relative;
+}
+
+
+
